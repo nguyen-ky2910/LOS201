@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+linux-5.15/
+u-boot-2022.04/
+busybox-1.35.0/

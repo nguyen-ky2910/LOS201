@@ -1,0 +1,13 @@
+Embedded Linux LAB-01
+
+Build date:
+Sun Oct 11 08:38:13 PM +07 2026
+
+Host:
+Linux localhost.localdomain 5.14.0-687.44.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Sep 9 11:11:28 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+ARM compiler:
+arm-linux-gnu-gcc (GCC) 12.1.1 20220507 (Red Hat Cross 12.1.1-1)
+
+QEMU:
+QEMU emulator version 8.2.10
