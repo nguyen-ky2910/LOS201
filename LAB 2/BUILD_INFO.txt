@@ -1,0 +1,34 @@
+Embedded Linux Systems - LAB 2
+
+Build/export date:
+Sun Oct 11 09:21:47 PM +07 2026
+
+Host:
+Linux localhost.localdomain 5.14.0-687.44.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Wed Sep 9 11:11:28 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Host kernel:
+5.14.0-687.44.1.el9_8.x86_64
+
+ARM compiler:
+arm-linux-gnu-gcc (GCC) 12.1.1 20220507 (Red Hat Cross 12.1.1-1)
+
+QEMU:
+QEMU emulator version 8.2.10
+
+Driver binary:
+/home/nguyenky/LAB01_GitHub/LAB 2/driver/lab2_driver.ko: ELF 32-bit LSB relocatable, ARM, EABI5 version 1 (SYSV), BuildID[sha1]=526d006d209cc809dd24ff84f7f74515fea9f512, with debug_info, not stripped
+
+Driver module information:
+filename:       /home/nguyenky/LAB01_GitHub/LAB 2/driver/lab2_driver.ko
+version:        1.0
+description:    LAB-02: Simple Character Device Driver
+author:         Embedded Linux Lab
+license:        GPL
+srcversion:     873A39116A4D193026D0BC6
+vermagic:       5.15.0 SMP mod_unload ARMv7 p2v8 
+
+LAB 2 status:
+Part A - Character Device Driver: COMPLETED
+Part B - procfs/sysfs: COMPLETED
+Part C - MTD/JFFS2: NOT COMPLETED ON CURRENT ALMALINUX HOST
+Part D - BusyBox auto-load / QEMU integration: COMPLETED

@@ -1,0 +1,13 @@
+# /etc/inittab - BusyBox init configuration
+
+# Run rcS during system initialization
+::sysinit:/etc/init.d/rcS
+
+# Open shell on console
+::askfirst:-/bin/sh
+
+# Handle Ctrl+Alt+Del
+::ctrlaltdel:/sbin/reboot
+
+# Cleanup before shutdown
+::shutdown:/bin/umount -a -r

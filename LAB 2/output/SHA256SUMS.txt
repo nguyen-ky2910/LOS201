@@ -1,0 +1,1 @@
+079a017196ef746fce1977e1a10034ba46a920f07191bd54ea0f5a1060fdee69  initramfs_lab2.cpio.gz
